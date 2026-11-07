@@ -7,7 +7,7 @@ int main()
     map<int, set<int>> mp;
     int n;
     cin >> n;
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < n; i++) //ok this is chacked
     {
         int x;
         cin >> x;
